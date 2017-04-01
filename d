@@ -1,1 +1,1 @@
-remote d
+my d
