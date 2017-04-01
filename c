@@ -1,1 +1,1 @@
-remote c 2
+my c
